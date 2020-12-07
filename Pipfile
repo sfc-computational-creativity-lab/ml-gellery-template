@@ -1,0 +1,23 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+hydra-core = "==1.0.4"
+numpy = "==1.18.3"
+opencv-python = "==4.2.0.34"
+torch = "==1.5.0"
+torchaudio = "==0.5.0"
+torchvision = "==0.6.0"
+virtualenv = "==20.0.18"
+virtualenv-clone = "==0.5.4"
+Pillow = "==7.1.2"
+
+[requires]
+python_version = "3.7"
+
+[scripts]
+start = "python demo.py"

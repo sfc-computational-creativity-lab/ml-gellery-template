@@ -1,0 +1,7 @@
+vgg_weight: ./vgg_normalised.pth
+decoder_weight: ./decoder.pth
+resolution: 256
+style: ./assets/style1.jpg
+hydra:
+  run:
+    dir: .

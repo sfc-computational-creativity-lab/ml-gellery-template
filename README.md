@@ -3,8 +3,8 @@
 
 ## Usage
 
-**require**
-- Python3.7
+**requiremnents**
+- Python 3.7
 - [pipenv](https://github.com/pypa/pipenv)
 - [vgg](https://drive.google.com/file/d/1bMfhMMwPeXnYSQI6cDWElSZxOxc6aVyr/view?usp=sharing)
 - [decoder](https://drive.google.com/file/d/1EpkBA2K2eYILDSyPTt0fztz59UjAIpZU/view?usp=sharing)
